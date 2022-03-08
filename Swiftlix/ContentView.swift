@@ -8,9 +8,17 @@
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject var sessionStore: SessionStore
+    
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        VStack {
+            if (sessionStore.isAnon) {
+                Login()
+            } else {
+                Home()
+            }
+        }
+        .padding()
     }
 }
 

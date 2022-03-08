@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  Swiftlix
+
+  Created by Michał Sadurski on 20/11/2021.
+  
+*/
+
+// MARK: - Buttons
+"BTN_ADD" = "Dodaj";
+"BTN_REMOVE" = "Usuń";
+"BTN_CANCEL" = "Anuluj";
+
+// MARK: - Home
+"HOME_GALLERY" = "Galeria";
+"HOME_MY-MOVIES" = "Moje filmy";
+
+// MARK: - Movie Field
+"MOVIE-FIELD_INFO" = "Info";
+"MOVIE-FIELD_RENT" = "Wypożycz";
+"MOVIE-FIELD_BUY" = "Kup";
+"MOVIE-FIELD_EDIT" = "Edytuj";
+"MOVIE-FIELD_REMOVE" = "Usuń";
+"%@ (%@) MOVIE-FIELD-ALERT_REMOVE-CONFIRMATION" = "%@ (%@) - pozycja zostanie usunięta, jesteś pewien? (Tej operacji nie da się cofnąć!)";
+
+// MARK: - Movie Sheet
+"MOVIE-SHEET_TITLE" = "Tytuł";
+"MOVIE-SHEET_GENRE" = "Gatunek";
+"MOVIE-SHEET_DIRECTED-BY" = "Reżyser";
+"MOVIE-SHEET_WRITTEN-BY" = "Scenariusz";
+"MOVIE-SHEET_RELEASE-DATE" = "Data premiery";
+"MOVIE-SHEET_LENGTH" = "Czas w minutach";
+"MOVIE-SHEET_IMDB-LINK" = "Link IMDb";
+"MOVIE-SHEET_DESCRIPTION" = "Opis";
+
+// MARK: - Login
+"LOGIN_EMAIL" = "Email";
+"LOGIN_PASSWORD" = "Hasło";
+"LOGIN_LOG-IN" = "Zaloguj się";
+"LOGIN_TROUBLE-LOGGING-IN" = "Problemy z logowaniem?";
+"LOGIN_CONTACT-US" = "Napisz do nas";
+"LOGIN_CREATE-AN-ACCOUNT" = "Stwórz konto";
+
+// MARK: - Genres
+"GENRE_OPTIONAL" = "(opcjonalnie)";
+"GENRE_WESTERN" = "Western";
+"GENRE_FANTASY" = "Fantasy";
+"GENRE_FAMILY" = "Familijny";
+"GENRE_SPAGHETTI-WESTERN" = "Spaghetti western";
+"GENRE_DRAMA" = "Dramat";
+"GENRE_COMEDY" = "Komedia";
+"GENRE_MUSICAL" = "Musical";
+"GENRE_CRIME" = "Kryminał";
+"GENRE_THRILLER" = "Thriller";
+"GENRE_SCI-FI" = "Sci-fi";
+"GENRE_ACTION" = "Akcja";
+"GENRE_ADVENTURE" = "Przygodowy";

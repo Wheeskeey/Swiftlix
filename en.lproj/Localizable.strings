@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  Swiftlix
+
+  Created by Michał Sadurski on 20/11/2021.
+  
+*/
+
+// MARK: - Buttons
+"BTN_ADD" = "Add";
+"BTN_REMOVE" = "Remove";
+"BTN_CANCEL" = "Cancel";
+
+// MARK: - Home
+"HOME_GALLERY" = "Gallery";
+"HOME_MY-MOVIES" = "My movies";
+
+// MARK: - Movie Field
+"MOVIE-FIELD_INFO" = "Info";
+"MOVIE-FIELD_RENT" = "Rent";
+"MOVIE-FIELD_BUY" = "Buy";
+"MOVIE-FIELD_EDIT" = "Edit";
+"MOVIE-FIELD_REMOVE" = "Remove";
+"%@ (%@) MOVIE-FIELD-ALERT_REMOVE-CONFIRMATION" = "%@ (%@) will be removed, are you sure? (This operation cannot be undone!)";
+
+// MARK: - Movie Sheet
+"MOVIE-SHEET_TITLE" = "Title";
+"MOVIE-SHEET_GENRE" = "Genre";
+"MOVIE-SHEET_DIRECTED-BY" = "Directed by";
+"MOVIE-SHEET_WRITTEN-BY" = "Written by";
+"MOVIE-SHEET_RELEASE-DATE" = "Release date";
+"MOVIE-SHEET_LENGTH" = "Length in minutes";
+"MOVIE-SHEET_IMDB-LINK" = "IMDb link";
+"MOVIE-SHEET_DESCRIPTION" = "Description";
+
+// MARK: - Login
+"LOGIN_EMAIL" = "Email";
+"LOGIN_PASSWORD" = "Password";
+"LOGIN_LOG-IN" = "Log in";
+"LOGIN_TROUBLE-LOGGING-IN" = "Trouble logging in?";
+"LOGIN_CONTACT-US" = "Contact us";
+"LOGIN_CREATE-AN-ACCOUNT" = "Create an account";
+
+// MARK: - Genres
+"GENRE_OPTIONAL" = "(optional)";
+"GENRE_WESTERN" = "Western";
+"GENRE_FANTASY" = "Fantasy";
+"GENRE_FAMILY" = "Family";
+"GENRE_SPAGHETTI-WESTERN" = "Spaghetti western";
+"GENRE_DRAMA" = "Drama";
+"GENRE_COMEDY" = "Comedy";
+"GENRE_MUSICAL" = "Musical";
+"GENRE_CRIME" = "Crime";
+"GENRE_THRILLER" = "Thriller";
+"GENRE_SCI-FI" = "Sci-fi";
+"GENRE_ACTION" = "Action";
+"GENRE_ADVENTURE" = "Adventure";
